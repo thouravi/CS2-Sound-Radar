@@ -1,0 +1,3 @@
+numpy>=1.26.0
+PySide6>=6.6.0
+SoundCard>=0.4.3
