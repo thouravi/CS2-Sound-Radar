@@ -2,6 +2,8 @@
 
 Always-on-top desktop overlay that visualizes **stereo direction** from your system audio (WASAPI loopback). Built for Counter-Strike 2 practice and awareness — you still hear the game normally while a floating radar shows left/right balance and intensity in real time.
 
+![Screenshot](img/preview.png)
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
 ![License](https://img.shields.io/badge/License-MIT-green)
