@@ -34,7 +34,7 @@ Always-on-top desktop overlay that visualizes **stereo direction** from your sys
 ### Option B — terminal
 
 ```bat
-cd path\to\audio
+cd path\to\CS2 Sound Radar
 python -m pip install -r requirements.txt
 python radar_overlay.py
 ```
